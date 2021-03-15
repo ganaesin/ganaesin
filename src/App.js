@@ -1,7 +1,5 @@
 import Info from './info';
 import Header from './header';
-import Nav from './nav';
-import $ from "jquery";
 import './index.css';
 
 function App() {

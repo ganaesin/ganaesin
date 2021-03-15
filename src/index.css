@@ -52,7 +52,7 @@ input {
 
 #small {
   margin: 2px;
-  width: 75.55px;
+  width: 59.25px;
   height: 22px;
   font-size: 15px;
   text-align: center;
@@ -88,4 +88,11 @@ input {
 
 #red {
   color: red;
+}
+
+
+#iid {
+  margin-top: 35px;
+  margin-left: 7.5px;
+  margin-bottom: 0;
 }
