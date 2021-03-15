@@ -1,0 +1,143 @@
+  const [역사2원점수, set역사2원점수] = useState('');
+  const [역사2평균, set역사2평균] = useState('');
+  const [역사2편차, set역사2편차] = useState('');
+
+  const on역사2원점수= (e) => {
+    set역사2원점수(e.target.value);
+  };
+
+  const on역사2평균 = (e) => {
+    set역사2평균(e.target.value);
+  };
+
+  const on역사2편차 = (e) => {
+    set역사2편차(e.target.value);
+  };
+
+  const [국어2원점수, set국어2원점수] = useState('');
+  const [국어2평균, set국어2평균] = useState('');
+  const [국어2편차, set국어2편차] = useState('');
+
+  const on국어2원점수 = (e) => {
+    set국어2원점수(e.target.value);
+  };
+
+  const on국어2평균 = (e) => {
+    set국어2평균(e.target.value);
+  };
+
+  const on국어2편차 = (e) => {
+    set국어2편차(e.target.value);
+  };
+
+  const [도덕2원점수, set도덕2원점수] = useState('');
+  const [도덕2평균, set도덕2평균] = useState('');
+  const [도덕2편차, set도덕2편차] = useState('');
+
+  const on도덕2원점수 = (e) => {
+    set도덕2원점수(e.target.value);
+  };
+
+  const on도덕2평균 = (e) => {
+    set도덕2평균(e.target.value);
+  };
+
+  const on도덕2편차 = (e) => {
+    set도덕2편차(e.target.value);
+  };
+
+  const [수학2원점수, set수학2원점수] = useState('');
+  const [수학2평균, set수학2평균] = useState('');
+  const [수학2편차, set수학2편차] = useState('');
+
+  const on수학2원점수 = (e) => {
+    set수학2원점수(e.target.value);
+  };
+
+  const on수학2평균 = (e) => {
+    set수학2평균(e.target.value);
+  };
+
+  const on수학2편차 = (e) => {
+    set수학2편차(e.target.value);
+  };
+
+  const [과학2원점수, set과학2원점수] = useState('');
+  const [과학2평균, set과학2평균] = useState('');
+  const [과학2편차, set과학2편차] = useState('');
+
+  const on과학2원점수 = (e) => {
+    set과학2원점수(e.target.value);
+  };
+
+  const on과학2평균 = (e) => {
+    set과학2평균(e.target.value);
+  };
+
+  const on과학2편차 = (e) => {
+    set과학2편차(e.target.value);
+  };
+
+  const [기가2원점수, set기가2원점수] = useState('');
+  const [기가2평균, set기가2평균] = useState('');
+  const [기가2편차, set기가2편차] = useState('');
+
+  const on기가2원점수 = (e) => {
+    set기가2원점수(e.target.value);
+  };
+
+  const on기가2평균 = (e) => {
+    set기가2평균(e.target.value);
+  };
+
+  const on기가2편차 = (e) => {
+    set기가2편차(e.target.value);
+  };
+
+  const [영어2원점수, set영어2원점수] = useState('');
+  const [영어2평균, set영어2평균] = useState('');
+  const [영어2편차, set영어2편차] = useState('');
+
+  const on영어2원점수 = (e) => {
+    set영어2원점수(e.target.value);
+  };
+
+  const on영어2평균 = (e) => {
+    set영어2평균(e.target.value);
+  };
+
+  const on영어2편차 = (e) => {
+    set영어2편차(e.target.value);
+  };
+
+  const [사회2원점수, set사회2원점수] = useState('');
+  const [사회2평균, set사회2평균] = useState('');
+  const [사회2편차, set사회2편차] = useState('');
+
+  const on사회2원점수 = (e) => {
+    set사회2원점수(e.target.value);
+  };
+
+  const on사회2평균 = (e) => {
+    set사회2평균(e.target.value);
+  };
+
+  const on사회2편차 = (e) => {
+    set사회2편차(e.target.value);
+  };
+
+  const [선택2원점수, set선택2원점수] = useState('');
+  const [선택2평균, set선택2평균] = useState('');
+  const [선택2편차, set선택2편차] = useState('');
+
+  const on선택2원점수 = (e) => {
+    set선택2원점수(e.target.value);
+  };
+
+  const on선택2평균 = (e) => {
+    set선택2평균(e.target.value);
+  };
+
+  const on선택2편차 = (e) => {
+    set선택2편차(e.target.value);
+  };
