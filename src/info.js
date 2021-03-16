@@ -684,7 +684,7 @@ let Info = () => {
   let F1 = ((((Number(이수과목총점) - Number(과목평균합)) / Number(표준편차합)) * Number(10)) + Number(Km))
   let F2 = ((((Number(이수과목총점2) - Number(과목평균합2)) / Number(표준편차합2)) * Number(10)) + Number(Km2))
 
-  교과총점 += (F1 * 2) + (F2 * 2) + Number(ycn3) + Number(volun) + Number(sang) + Number(score) + Number(score2 * 2) + Number(12) + Number(4.433)
+  교과총점 += (F1 * 2) + (F2 * 2) + Number(ycn3) + Number(volun) + Number(sang) + Number(score) + Number(score2 * 2) + Number(12)
 
   console.log('=======')
   console.log(F1 * 2)
